@@ -7,7 +7,7 @@
     Solutions to problems on SPOJ.
 </p>
 <p align="center">
-	Check out all solutions of SPOJ <a href="">here</a>
+	Check out all solutions of SPOJ <a href="https://github.com/MrinmoiHossain/SPOJ-Solution">here</a>
 </p>
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-000-brightgreen.svg">
